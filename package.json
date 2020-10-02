@@ -1,0 +1,32 @@
+{
+  "name": "aso",
+  "version": "0.0.1",
+  "description": "Online community for the Amaraji Maha Marai",
+  "author": "CJ Currie",
+  "homepage": "https://github.com/cjcurrie/aso-app#readme",
+  "license": "SEE LICENSE IN license.txt",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjcurrie/aso-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cjcurrie/aso-app/issues"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.50",
+    "@types/react-dom": "^16.9.8",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "@react-firebase/auth": "^0.2.10",
+    "firebase": "^7.22.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
