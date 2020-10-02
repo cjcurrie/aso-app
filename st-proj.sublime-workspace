@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"IfFireb",
+				"IfFirebaseUnAuthed\tconst"
+			],
+			[
 				"tex",
 				"text-align\tproperty"
 			],
@@ -510,25 +514,9 @@
 			[
 				"rando",
 				"randPoints"
-			],
-			[
-				"Glyph",
-				"GlyphType"
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 19,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
-	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -540,6 +528,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"typescript",
+				"TypeScript: Show Error List"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
 			[
 				"Package Control: inst",
 				"Package Control: Install Package"
@@ -568,12 +564,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/E/DocVolumes/ASO"
-	],
 	"file_history":
 	[
+		"/E/DocVolumes/ASO/src/index.html",
+		"/E/DocVolumes/ASO/package.json",
+		"/E/DocVolumes/ASO/.gitignore",
+		"/E/DocVolumes/ASO/src/firebase-credentials.ts",
+		"/E/DocVolumes/ASO/src/index.tsx",
 		"/E/DocVolumes/AmarajiSanghaOnline/aso-app/functions/tsconfig.json",
 		"/E/DocVolumes/AmarajiSanghaOnline/aso-app/functions/src/containers/App/index.ts",
 		"/E/DocVolumes/AmarajiSanghaOnline/aso-app/functions/src/containers/App/App.js",
@@ -696,16 +693,11 @@
 		"/C/Users/Kreion/Documents/HexWorld-server/server/script/DB/dbAccess.js",
 		"/C/Users/Kreion/Documents/HexWorld-server/server/script/Rooms/Chat.js",
 		"/C/Users/Kreion/Documents/HexWorld-server/server/script/World/HexTile.js",
-		"/C/Users/Kreion/Documents/HexWorld-server/server/config/config.js",
-		"/C/Users/Kreion/Documents/HexWorld-server/server/config/config.json",
-		"/C/Users/Kreion/Documents/HexWorld-server/server/script/Chat.js",
-		"/C/Users/Kreion/Documents/HexWorld/Assets/Scripts/Network/NetworkManager.cs",
-		"/C/Users/Kreion/Documents/HexWorld/Assets/Scripts/Network/Rooms/MatchmakingRoom.cs",
-		"/C/Users/Kreion/Documents/HexWorld-server/lib/colyseus/src/Room.ts"
+		"/C/Users/Kreion/Documents/HexWorld-server/server/config/config.js"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 40.8
 	},
 	"find_in_files":
 	{
@@ -733,43 +725,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 19,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								19,
-								19
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 25.0
@@ -805,6 +760,10 @@
 	{
 		"height": 0.0
 	},
+	"output.errorlist":
+	{
+		"height": 88.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -814,7 +773,6 @@
 		"height": 118.0
 	},
 	"pinned_build_system": "",
-	"project": "st-proj.sublime-project",
 	"replace":
 	{
 		"height": 46.0
@@ -1403,7 +1361,6 @@
 		],
 		"width": 613.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},
